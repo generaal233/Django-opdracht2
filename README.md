@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=eTGQkRGnPSE
 
 
 Reflectie:
-het bouwen ging erg goed. later kwam ik een paar problemen tegen. ik heb veel geleerdt van dit project.
+het bouwen ging erg goed. later kwam ik een paar problemen tegen. De probleemen bestonden vaak uit een komma of punt vergeten. Geen grote errors. ik heb veel geleerdt van dit project.
 wat beter kon was de tijd wanneer ik aan het project begonnen ben. wat erg goed ging was het volgen van de commant in de commant promt en het begrijpen van de code welk onderdeel wat doet.
 
 Log boek:
